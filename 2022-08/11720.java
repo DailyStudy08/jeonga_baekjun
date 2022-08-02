@@ -5,10 +5,10 @@ public class Main{
     int N = sc.nextInt();
     String sNum = sc.next();
     char[] cNum =sNum.toCharArray();
-    int sum = 0;
+    int res = 0;
     for (int i = 0; i<cNum.length; i ++){
-      sum += cNum[i] - '0';
+      res += cNum[i] - '0';
     }
-    System.out.print(sum);
+    System.out.print(res);
   }
 }

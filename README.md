@@ -22,6 +22,7 @@ Solving Algorithm Problem Challenge
 | 08-09 | 3052    |             |
 | 08-10 | 1546    |             |
 | 08-11 | 8958    |             |
+|       | 4344    | f-strings   |
 
 주석환영합니다>.<
 

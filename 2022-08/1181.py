@@ -13,4 +13,4 @@ for i in a:
 c=[]
 for i in range(len(b)):
     c.append(b[i][1])
-print('\n'.join(c))  
+print('\n'.join(c)) 

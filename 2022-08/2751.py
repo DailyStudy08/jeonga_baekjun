@@ -1,10 +1,12 @@
 import sys
 N = int(sys.stdin.readline())
 a = []
+# 입력 받기
 for _ in range(N):
     a.append(int(sys.stdin.readline()))
-# 입력 받기
-# 정렬 하기
+    # 개행 문자 \n 제거하기
+
+# 정렬 하기 : 선택 정렬, 사실 시간초과때문에 사용하면 안됨
 for i in range(N-1):
     minIdx = i
     for j in range(i+1, N):

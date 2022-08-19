@@ -1,10 +1,9 @@
-K = int(input())
-stack = []
-
-for _ in range(K):
-    a = int(input())
-    if a !=0:
-        stack.append(a)
+def fibo_dp(n):
+    if n <3:
+        return n
     else:
-        stack.pop()
-print(sum(stack))
+        a, b= b, a+b
+        return b
+
+n = int(input())
+print(fibo_dp(n))

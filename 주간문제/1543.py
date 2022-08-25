@@ -1,6 +1,5 @@
 book = input()
 ptn = input()
-
 cnt = 0
 i = 0
 while i < len(book)- len(ptn)+1:
@@ -16,12 +15,7 @@ while i < len(book)- len(ptn)+1:
             i += 1
             continue
         else:
-            if length==0:
-                i+=1
+            i = i - (length-1)
+            # 되돌아가야한다. 왜냐하면 틀을 하나씩 이동하는 것이기 때문에
             break
-        #모두 맞아 ...아니에요
-    #length 완성
 print(cnt)
-
-
-# 답이 자꾸 틀리네요... 어떻게 풀지 구상을 다시 해야겠어요

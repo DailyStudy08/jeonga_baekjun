@@ -41,6 +41,7 @@ Solving Algorithm Problem Challenge
 | 08-26  | 2477    |             |
 |        | 2563    |             |
 |        | 2578    |             |
+| 08-27  | 1244    |             |
 
 주석환영합니다
 

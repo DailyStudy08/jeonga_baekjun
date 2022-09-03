@@ -6,7 +6,11 @@ Solving Algorithm Problem Challenge
 
 ---
 
-|        | #number | Remark       |
+| 9월    | #number | Remark |
+| ----- | ------- | ------ |
+| 09-03 | 10250   |        |
+
+| 8월     | #number | Remark       |
 | ------ | ------- | ------------ |
 | 07-31  | 2750    | -            |
 | 08-01  | 11653   | 소인수분해        |

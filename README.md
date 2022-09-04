@@ -9,6 +9,7 @@ Solving Algorithm Problem Challenge
 | 9월    | #number | Remark |
 | ----- | ------- | ------ |
 | 09-03 | 10250   |        |
+| 09-04 | 1076    |        |
 
 | 8월     | #number | Remark       |
 | ------ | ------- | ------------ |

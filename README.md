@@ -18,6 +18,7 @@ Solving Algorithm Problem Challenge
 | 09-13 | 2693    |           |
 | 09-14 | 25501   | recursion |
 | 09-15 | 2775    |           |
+| 09-17 | 1010    |           |
 
 | 8월     | #number | Remark       |
 | ------ | ------- | ------------ |

@@ -10,7 +10,7 @@ if sumV >=N:
 else:
     print('no')
     
-'-----------------------'
+'----------using Bitwise Operators -------------'
 # block
 sumV = 0
 for i in range(K+1):

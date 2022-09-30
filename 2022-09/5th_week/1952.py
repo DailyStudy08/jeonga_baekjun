@@ -8,7 +8,7 @@ def is_no_zero(data, M, N):
 
 dr = [0, 1, 0, -1]
 dc = [1, 0, -1, 0]
-M, N = map(int,input().split())
+M, N = map(int, input().split())
 board = [[0]*N for _ in range(M)]
 r = c = 0
 cnt = 0
@@ -22,6 +22,6 @@ while True:
         board[nr][nc] = 1
         r, c = nr, nc
     else:
-        idx = (idx + 1)%4
+        idx = (idx + 1) % 4
         cnt += 1
 print(cnt)

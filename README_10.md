@@ -10,3 +10,4 @@ Solving Algorithm Problem Challenge in October
 | ----- | ------- | ------ |
 | 10-04 | 10815   |        |
 | 10-05 | 1978    |        |
+|       | 1929    |        |
